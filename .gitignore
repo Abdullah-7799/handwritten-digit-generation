@@ -1,0 +1,15 @@
+# Data and models
+data/
+models/
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+*.pth
+*.jpg
+*.png
+
+# Environments
+venv/
+.env
