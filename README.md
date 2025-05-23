@@ -1,5 +1,5 @@
 ```markdown
-# GAN Image Generation Project 🔥
+# GAN handwritten digit Generation Project 🔥
 
 **GitHub Link:** [Your Project Link](https://github.com/your-username/your-repo)  
 
